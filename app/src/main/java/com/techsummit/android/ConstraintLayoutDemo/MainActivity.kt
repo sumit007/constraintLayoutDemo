@@ -28,14 +28,13 @@
  * THE SOFTWARE.
  */
 
-package com.raywenderlich.android.razegalactic
+package com.raywenderlich.android.ConstraintLayoutDemo
 
 import android.animation.ValueAnimator
 import android.os.Bundle
 import android.support.constraint.ConstraintLayout
 import android.support.constraint.ConstraintSet
 import android.support.v7.app.AppCompatActivity
-import android.transition.TransitionManager
 import android.view.animation.LinearInterpolator
 import kotlinx.android.synthetic.main.keyframe1.*
 

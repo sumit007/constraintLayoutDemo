@@ -1,4 +1,4 @@
-package com.raywenderlich.android.razegalactic
+package com.raywenderlich.android.ConstraintLayoutDemo
 
 import org.junit.Test
 

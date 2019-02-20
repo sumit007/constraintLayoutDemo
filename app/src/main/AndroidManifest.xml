@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
-  package="com.raywenderlich.android.razegalactic">
+  package="com.raywenderlich.android.ConstraintLayoutDemo">
 
   <application
     android:allowBackup="false"
@@ -14,7 +14,7 @@
 
     <!-- Splash Activity -->
     <activity
-      android:name=".SplashActivity"
+      android:name="com.raywenderlich.android.com.techsummit.ConstraintLayoutDemo.SplashActivity"
       android:screenOrientation="portrait">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -25,7 +25,7 @@
 
     <!-- Main Activity -->
     <activity
-      android:name=".MainActivity"
+      android:name="com.raywenderlich.android.com.techsummit.ConstraintLayoutDemo.MainActivity"
       android:screenOrientation="portrait" />
   </application>
 
