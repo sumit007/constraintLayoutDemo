@@ -14,7 +14,7 @@
 
     <!-- Splash Activity -->
     <activity
-      android:name="com.raywenderlich.android.com.techsummit.ConstraintLayoutDemo.SplashActivity"
+      android:name="com.techsummit.android.constraintlayoutdemo.SplashActivity"
       android:screenOrientation="portrait">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -25,7 +25,7 @@
 
     <!-- Main Activity -->
     <activity
-      android:name="com.raywenderlich.android.com.techsummit.ConstraintLayoutDemo.MainActivity"
+      android:name="com.techsummit.android.constraintlayoutdemo.MainActivity"
       android:screenOrientation="portrait" />
   </application>
 
